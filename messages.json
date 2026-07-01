@@ -1,11 +1,7 @@
-{
-  "success": true,
-  "messages": [
-    {
-      "id": "msg_001",
-      "phone": "201028085788",
-      "message": "اختبار إشعارات Co-Research",
-      "status": "pending"
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "phone": "201028085788",
+    "message": "Hello"
+  }
+]
